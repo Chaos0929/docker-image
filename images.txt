@@ -1,2 +1,3 @@
 nginx
 redis
+nginx:mainline-alpine
