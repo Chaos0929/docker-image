@@ -1,3 +1,4 @@
 nginx
 redis
 eclipse-temurin:8-jre
+ --platform=linux/amd64
