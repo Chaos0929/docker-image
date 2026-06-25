@@ -1,4 +1,4 @@
-nginx
+--platform=linux/amd64 nginx
 redis
-eclipse-temurin:8-jre
- --platform=linux/amd64
+--platform=linux/amd64 eclipse-temurin:8-jre
+
