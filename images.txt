@@ -1,4 +1,6 @@
 --platform=linux/amd64 nginx
+nginx
 redis
 --platform=linux/amd64 eclipse-temurin:8-jre
 --platform=linux/amd64 eclipse-temurin:17-jre-alpine
+node:24-alpine
